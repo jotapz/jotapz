@@ -4,7 +4,6 @@
 
 - 🎓 Computer Science student  
 - 💻 Familiar with Java, Python, JavaScript, C, and C++  
-- 🔒 Focus on Cybersecurity and Development  
 
 ### 🛠️ Technologies  
 
