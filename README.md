@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=07F70CF0&width=435&lines=Eai%2C+me+chamo+Jo%C3%A3o+%3AD" alt="Typing SVG" />
 </a>
 <img align="center" width="370" height="400" src="https://64.media.tumblr.com/c59d1c430a477d73529acdae0f93b198/155f1e76e646ecb2-79/s640x960/a1046b4c0d67de7c98832231fa76c2dfdb4e454f.gifv" />
-<br>
 - 🎓 Ciência da Computação
 <br>
 - 💻 Java, Python, HTML, CSS, JavaScript  
