@@ -1,9 +1,10 @@
-## Hi, I'm João!  
-
-### 🚀 About Me  
-
-- 🎓 Computer Science student  
-- 💻 Familiar with Java, Python, JavaScript, C, and C++  
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=07F70CF0&width=435&lines=Eai%2C+me+chamo+Jo%C3%A3o+%3AD" alt="Typing SVG" />
+</a>
+<br>
+- 🎓 Ciência da Computação
+<br>
+- 💻 Java, Python, HTML, CSS, JavaScript  
 
 ### 🛠️ Technologies  
 
@@ -13,9 +14,8 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div>  
-
----
+  <a href="https://pokemondb.net/pokedex/buizel"><img align="center" height="120" width="110" src="https://img.pokemondb.net/sprites/black-white/normal/buizel.png" alt="Buizel"></a>
+</div>
 
 ### 📫 Contact  
 
@@ -35,6 +35,6 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotapz&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapz&layout=compact&theme=tokyonight">
+  <img align="center" width="770" height="500" src="https://64.media.tumblr.com/c59d1c430a477d73529acdae0f93b198/155f1e76e646ecb2-79/s640x960/a1046b4c0d67de7c98832231fa76c2dfdb4e454f.gifv" />
 </div>
 
-<img align="right" height="200" src="[https://i.pinimg.com/originals/16/7d/99/167d99e5dc5604b974ef70c159b9681d.gif](https://64.media.tumblr.com/c59d1c430a477d73529acdae0f93b198/155f1e76e646ecb2-79/s640x960/a1046b4c0d67de7c98832231fa76c2dfdb4e454f.gifv)" />
