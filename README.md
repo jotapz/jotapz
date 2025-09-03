@@ -36,3 +36,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotapz&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapz&layout=compact&theme=tokyonight">
 </div>
+
+<img align="right" height="200" src="[https://i.pinimg.com/originals/16/7d/99/167d99e5dc5604b974ef70c159b9681d.gif](https://64.media.tumblr.com/c59d1c430a477d73529acdae0f93b198/155f1e76e646ecb2-79/s640x960/a1046b4c0d67de7c98832231fa76c2dfdb4e454f.gifv)" />
