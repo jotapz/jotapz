@@ -4,7 +4,7 @@
 <img align="center" width="370" height="400" src="https://64.media.tumblr.com/55f66b7eb20edeb6f50638719dc12451/5efa3ee2a9d6ffc9-e2/s1280x1920/d3bceeba94cb39fae7feebbc4d33a0ef6c349e58.jpg"/>
 - 🎓 Ciência da Computação
 <br>
-- 💻 Java, Python, HTML, CSS, JavaScript  
+- 💻 Java,  HTML, CSS, JavaScript  
 
 ### 🛠️ Technologies  
 
