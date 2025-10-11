@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg">
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=df0505F0&width=435&lines=Eai%2C+me+chamo+Jo%C3%A3o+%3AD" alt="Typing SVG" />
 </a>
-<img align="center" width="370" height="400" src="https://64.media.tumblr.com/55f66b7eb20edeb6f50638719dc12451/5efa3ee2a9d6ffc9-e2/s1280x1920/d3bceeba94cb39fae7feebbc4d33a0ef6c349e58.jpg"/>
+
 - 🎓 Ciência da Computação
 <br>
 - 💻 Java,  HTML, CSS, JavaScript  
