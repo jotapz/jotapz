@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=df0505F0&width=435&lines=Eai%2C+me+chamo+Jo%C3%A3o+%3AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=1A50F7FF&width=435&lines=Eai%2C+me+chamo+Jo%C3%A3o+%3AD" alt="Typing SVG" />
 </a>
 
 - 🎓 Ciência da Computação
