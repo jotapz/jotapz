@@ -1,10 +1,10 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=1A50F7FF&width=435&lines=Eai%2C+me+chamo+Jo%C3%A3o+%3AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=1000&color=1A50F7FF&width=435&lines=Hey%2C+I'm+Jo%C3%A3o+%3AD" alt="Typing SVG" />
 </a>
 
-- 🎓 Ciência da Computação
+- 🎓 Computer Science
 <br>
-- 💻 Java,  HTML, CSS, JavaScript  
+- 💻 Java, HTML, CSS, JavaScript  
 
 ### 🛠️ Technologies  
 
@@ -15,7 +15,6 @@
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img align="center" alt="Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
-  <a href="https://pokemondb.net/pokedex/buizel"><img align="center" height="120" width="110" src="https://img.pokemondb.net/sprites/black-white/normal/buizel.png" alt="Buizel"></a>
 </div>
 
 ### 📫 Contact  
@@ -27,13 +26,4 @@
   <a href="mailto:jpedros1511@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</div>  
-
----
-
-### 📊 GitHub Stats  
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotapz&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapz&layout=compact&theme=tokyonight">
 </div>
